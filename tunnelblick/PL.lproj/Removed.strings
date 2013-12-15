@@ -1,0 +1,6 @@
+/* Checkbox name */
+"Scan configuration file for problems before connecting" = "Sprawdź plik konfiguracyjny przed połączeniem w poszukiwaniu błędów";
+
+/* Checkbox name */
+"Use Tunnelblick tun/tap drivers" = "Użyj sterowników tun/tap Tunnelblick";
+

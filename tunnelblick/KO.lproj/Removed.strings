@@ -1,0 +1,6 @@
+/* Checkbox name */
+"Scan configuration file for problems before connecting" = "연결하기 전에 문제가 없는지 설정 파일 검사";
+
+/* Checkbox name */
+"Use Tunnelblick tun/tap drivers" = "Tunnelblick tun/tap 드라이버 사용";
+

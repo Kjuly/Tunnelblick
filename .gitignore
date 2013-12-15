@@ -1,0 +1,24 @@
+# Mac OS
+*.DS_Store
+*~
+.*.sw[po]
+.svn
+
+# Xcode
+tunnelblick/build/*
+tunnelblick/*.pbxuser
+!tunnelblick/default.pbxuser
+tunnelblick/*.mode1v3
+!tunnelblick/default.mode1v3
+tunnelblick/*.mode2v3
+!tunnelblick/default.mode2v3
+tunnelblick/*.perspectivev3
+!tunnelblick/default.perspectivev3
+tunnelblick/*.xcworkspace
+!tunnelblick/default.xcworkspace
+tunnelblick/xcuserdata
+tunnelblick/profile
+tunnelblick/*.moved-aside
+
+*~.xib
+*~.nib
